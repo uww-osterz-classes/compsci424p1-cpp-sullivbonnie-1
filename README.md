@@ -4,7 +4,7 @@
 
 ## Your notes for me
 
-*If you have notes or messages for me, please put them here so I can see them.*
+This is my submission for program 1 at 11:54 pm 5/9/24. Late program submission was submitted & approved.
 
 ## About this repository and autograding
  
